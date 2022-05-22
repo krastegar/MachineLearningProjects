@@ -1,10 +1,11 @@
 # Projects
 
 ## Logistic Regression without sklearn Library
-In this project I attempted to create a logistic regression model to predict the binary class label for any sample described with two features. All functions were coded from scratch including the multiclass confusion matrix to visualize the metrics. 
+In this project I attempted to create a logistic regression model to predict the binary class label for any sample described with two features. All functions were coded from scratch including the multiclass confusion matrix to visualize the metrics. Located in LogisticRegreesion folder above.
 
 ## Deep Learning on Image classification
 Using google colabs GPU I was able to build a classifier that can classify the digits in MNIST data set with >99% accuracy. 
+
 google colab link: https://colab.research.google.com/drive/1jgHV_SSNhn6v2hWkSqKAV-VIDtF3Ftbn?usp=sharing
 
 ## Tumor Classification using SVM, XGBoost, and LinearSVC
